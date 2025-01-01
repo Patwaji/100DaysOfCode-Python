@@ -17,12 +17,19 @@ This repository showcases my journey through **[Angela Yu's "100 Days of Code: T
 Each folder in this repository corresponds to one day of the course. The structure is as follows:
 
 📦 ├── Day_01
+
 │ ├── Notes.md
+
 │ ├── Project_Solution.py
+
 │ └── Screenshots/
+
 ├── Day_02
+
 │ ├── Notes.md
+
 │ ├── Project_Solution.py
+
 │ └── Screenshots/
 
 
