@@ -1,13 +1,15 @@
-Angela Yu's Python Bootcamp Solutions
-This repository showcases my journey through Angela Yu's "100 Days of Code: The Complete Python Pro Bootcamp" on Udemy. The course is designed to teach Python from basics to advanced concepts, with a focus on real-world projects.
+# **Angela Yu's Python Bootcamp Solutions**
 
-📝 Course Overview
-Instructor: Dr. Angela Yu
-Platform: Udemy
-Topics Covered:
-Python Basics: Variables, Data Types, and Functions
-Intermediate Concepts: OOP, Error Handling, and File Handling
-Advanced Topics: APIs, Web Development, Data Science, and Automation
+This repository contains my solutions to the projects and exercises from **[Angela Yu's Python Bootcamp](https://www.udemy.com/course/100-days-of-code/)**.
+
+## **Course Overview**
+- **Instructor**: Dr. Angela Yu  
+- **Platform**: Udemy  
+- **Topics Covered**:  
+    - Python Basics: Variables, Data Types, and Functions  
+    - Intermediate Concepts: OOP, Error Handling, and File Handling  
+    - Advanced Topics: APIs, Web Development, Data Science, and Automation
+
 Capstone Projects: Comprehensive real-world applications
 This course uses the "100 Days of Code" method, promoting consistent daily practice to master Python.
 
