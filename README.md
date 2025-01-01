@@ -22,15 +22,11 @@ Each folder in this repository corresponds to one day of the course. The structu
 
 │ ├── Project_Solution.py
 
-│ └── Screenshots/
-
 ├── Day_02
 
 │ ├── Notes.md
 
 │ ├── Project_Solution.py
-
-│ └── Screenshots/
 
 
 ## **Why This Repository?**
