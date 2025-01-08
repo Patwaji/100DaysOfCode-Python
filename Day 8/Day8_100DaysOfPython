@@ -1,0 +1,58 @@
+# Day 8 of 100 Days of Python
+
+## Topics Covered
+
+### 1. If Statements in a List
+- Learned how to use if statements with lists.
+- Explored how to check elements against a condition.
+- Example:
+
+```python
+numbers = [1, 2, 3, 4, 5]
+even_numbers = [num for num in numbers if num % 2 == 0]
+print(even_numbers)  # Output: [2, 4]
+```
+
+### 2. Boolean Expressions and Efficiency
+- Studied Boolean expressions and their evaluations (`True` or `False`).
+- Boolean expressions help create concise and readable code.
+- Example:
+
+```python
+# Traditional approach
+is_adult = False
+if age >= 18:
+    is_adult = True
+
+# Efficient Boolean expression
+is_adult = age >= 18
+```
+
+- Using efficient Boolean expressions reduces unnecessary lines and enhances performance.
+
+### 3. Styling If Statements
+- Followed best practices to improve code readability.
+- Used indentation and spacing standards.
+- Ensured no unnecessary else statements in some conditions.
+- Examples:
+
+#### Clear If Statement
+```python
+if condition:
+    do_something()
+```
+
+#### Avoiding Unnecessary Else
+```python
+if condition:
+    do_something()
+return  # Instead of placing code in else block
+```
+
+#### Consistent Indentation
+- Always use 4 spaces for Python indentation.
+
+## Summary
+- Applied `if` statements effectively in lists.
+- Learned the value of Boolean expressions for writing efficient code.
+- Practiced styling techniques to enhance code clarity.
